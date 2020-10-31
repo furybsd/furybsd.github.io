@@ -1,5 +1,6 @@
-# FuryBSD has been discontinued
+Last updated 10/31/2020
 
+## EOL notice for ISO images
 Thank you for your interest in FuryBSD.  This project as an effort to build, and publish quarterly ISO images has been discontinued.  
 
 ## What to do if you have installed using the live media?
