@@ -1,7 +1,7 @@
 Last updated 10/31/2020
 
 ## End-of-life notice for community ISO images
-Thank you for your interest in FuryBSD.  This project as an effort to publish quarterly ISO images has been discontinued.  Plans to publish Q4 2020 images have been cancelled.
+Thank you for your interest in FuryBSD.  This project has been discontinued.  Plans to publish Q4 2020 images have been cancelled.
 
 ## What happened to the community telegram, blog, website, and forums?
 On 10/30/2020 the telegram channel was comprimised which accelerated the decision to terminate these resources sooner.  Protecting the forums even with the assistance of volenteers from spam has been an uphill battle over the last year.  Those volenteers have moved on from the project.  Simiarly the original volenteer who helped create and maintain wordpress has moved on from the project.  This added overhead, and decrease in volenteers is the primary reason for the decision.  
