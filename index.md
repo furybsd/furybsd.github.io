@@ -10,7 +10,4 @@ On 10/30/2020 the telegram channel was comprimised which accelerated the decisio
 If you have installed using the live media you can continue [updating and upgrading FreeBSD](https://www.freebsd.org/doc/handbook/updating-upgrading.html), and there is no need for a migration of your installed system.  
 
 ## What to do for updated versions of the LiveCD?
-If you enjoyed using the LiveCD please see projects which succeed it such as [HelloSystem](https://github.com/helloSystem/ISO), [LIVEStep](https://github.com/probonopd/LIVEstep), and of course [GhostBSD](http://www.ghostbsd.org) which offers a full community driven expereince.  
-
-## What to do if you are a developer?
-If you are a developer interesting in building, maintaining your own community the source code will always remain available on [GitHub](https://github.com/furybsd/furybsd-livecd).
+If you enjoyed using the LiveCD please see projects which succeed it such as [GhostBSD](http://www.ghostbsd.org).
