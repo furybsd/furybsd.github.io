@@ -1,7 +1,7 @@
 Last updated 10/31/2020
 
-## EOL notice for ISO images
-Thank you for your interest in FuryBSD.  This project as an effort to build, and publish quarterly ISO images has been discontinued.  
+## End-of-life notice for community ISO images
+Thank you for your interest in FuryBSD.  This project as an effort to publish quarterly ISO images has been discontinued.  
 
 ## What to do if you have installed using the live media?
 If you have installed using the live media you can continue [updating and upgrading FreeBSD](https://www.freebsd.org/doc/handbook/updating-upgrading.html), and there is no need for a migration of your installed system.  
