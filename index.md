@@ -1,7 +1,3 @@
 ## 10-31-2020 FuryBSD has been discontinued
 
-Thank you for your interest in FuryBSD.  If you have installed using the live media you can continue to updating using traditional FreeBSD update mechanisms.  There is no need for a migration.  If you enjoyed using the LiveCD please see projects such as [GhostBSD](https://guides.github.com/features/mastering-markdown/) [FyneDesk](https://guides.github.com/features/mastering-markdown/) [HelloSystem](https://guides.github.com/features/mastering-markdown/) [LIVEStep](https://guides.github.com/features/mastering-markdown/).  
-
-Some reasons for the decision to continue this effort include:
-
-* Recent hacking/hijacking of community telegram, forums, website (the administration overhead required to maintain these resources is to much for one person).
+Thank you for your interest in FuryBSD.  Due to administrative overhead, time, lack of resources this project has been discontinued as an effort to build, and publish quarterly ISO images.  If you have installed using the live media you can continue to updating FreeBSD using traditional FreeBSD update mechanisms, and there is no need for a migration of your installed system.  If you enjoyed using the LiveCD please see projects which succeed it such as [HelloSystem](https://github.com/helloSystem/ISO), [LIVEStep] (https://github.com/probonopd/LIVEstep), and [GhostBSD](http://www.ghostbsd.org).  If you are a developer interesting in building, maintaining your own community solution the source code will always remain available on [GitHub] (https://github.com/furybsd/furybsd-livecd).
