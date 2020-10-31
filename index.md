@@ -1,4 +1,4 @@
-# 10-31-2020 FuryBSD has been discontinued
+# FuryBSD has been discontinued
 
 Thank you for your interest in FuryBSD.  This project as an effort to build, and publish quarterly ISO images has been discontinued.  
 
